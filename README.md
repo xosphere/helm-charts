@@ -7,6 +7,6 @@ A Helm chart to install the Xosphere Instance Orchestrator to your Kubernetes cl
 With Helm properly installed and configured, installing is trivial:
 
 ```
-$ git clone https://github.com/xosphere/helm-charts.git xosphere-helm-charts
-$ helm install xosphere-helm-charts/instance-orchestrator
+$ git clone https://github.com/xosphere/instance-orchestrator-helm-chart.git
+$ helm install instance-orchestrator-helm-chart
 ```
