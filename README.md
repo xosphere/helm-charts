@@ -1,4 +1,4 @@
-# xosphere-instance-orchestrator-helm-chart
+# instance-orchestrator-helm-chart
 
 A Helm chart to install the Xosphere Instance Orchestrator to your Kubernetes cluster
 
